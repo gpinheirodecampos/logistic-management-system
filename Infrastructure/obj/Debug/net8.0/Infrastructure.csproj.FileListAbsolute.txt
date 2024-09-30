@@ -1,0 +1,14 @@
+C:\estudo-cqrs\cqrs-clean-arch\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\estudo-cqrs\cqrs-clean-arch\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\estudo-cqrs\cqrs-clean-arch\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\estudo-cqrs\cqrs-clean-arch\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\estudo-cqrs\cqrs-clean-arch\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\estudo-cqrs\cqrs-clean-arch\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudo-cqrs\cqrs-clean-arch\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\estudo-cqrs\cqrs-clean-arch\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\estudo-cqrs\cqrs-clean-arch\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\estudo-cqrs\cqrs-clean-arch\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\estudo-cqrs\cqrs-clean-arch\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\estudo-cqrs\cqrs-clean-arch\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\estudo-cqrs\cqrs-clean-arch\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\estudo-cqrs\cqrs-clean-arch\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

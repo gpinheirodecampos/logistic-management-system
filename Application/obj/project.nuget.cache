@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "YHMsBNXeB64=",
+  "success": true,
+  "projectFilePath": "C:\\estudo-cqrs\\cqrs-clean-arch\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel Campos\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Campos\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Campos\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel Campos\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Campos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
